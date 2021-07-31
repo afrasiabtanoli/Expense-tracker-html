@@ -12,7 +12,8 @@ TO run the Dapp
 7. if you don't have metamask installed install it first and run the project again
 9. it will only work with ropsten addresses and ropsten testnet
 10. the account using dapp for first time will be unable to see any outputs it should look like this image
-11. file:///C:/Users/Khushbakht/Desktop/first%20look.jpeg
+11. ![first look](https://user-images.githubusercontent.com/61728512/127745465-eeb6236a-55fb-4816-a93f-6d210b9b7a93.jpeg)
+
 12. first add some income like this image
 13. after first income transaction other transactions will work too. it should look like this image
 14. every transactions description and amount is shown in history section
