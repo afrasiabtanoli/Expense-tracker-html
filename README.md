@@ -43,3 +43,4 @@ TO run the Dapp
 15. the transaction can be deleted by the cross at right side of every transaction in transaction list but all the record is saved on blockchain
 16. income, expense, balance, everytransaction discription is stored on blockchain
 
+**Thank you for using my App**
