@@ -15,8 +15,11 @@ TO run the Dapp
  ![first look](https://user-images.githubusercontent.com/61728512/127745465-eeb6236a-55fb-4816-a93f-6d210b9b7a93.jpeg)
 9. by clicking the transaction button on top it refreshes and get all transaction happened previously and give you the balance, income and expense and page look like this
  ![refreshing page](https://user-images.githubusercontent.com/61728512/127747146-fbf30237-b23c-45ac-ae84-c2b6d773a7fa.jpeg)
+ 
+ 
 10. first add some income like this 
  ![adding transaction](https://user-images.githubusercontent.com/61728512/127747183-dd75f7cd-e706-4452-bcc9-1ed7620e3882.jpeg)
+
 
 11. after adding the income the page look like this
  ![transaction aded](https://user-images.githubusercontent.com/61728512/127747206-880bc531-943f-46ad-bb52-4449dc3a64c2.jpeg)
